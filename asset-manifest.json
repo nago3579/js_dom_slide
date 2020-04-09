@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/js_dom_slide/static/css/main.2fe0686d.chunk.css",
+    "main.js": "/js_dom_slide/static/js/main.a273cf55.chunk.js",
+    "main.js.map": "/js_dom_slide/static/js/main.a273cf55.chunk.js.map",
+    "runtime-main.js": "/js_dom_slide/static/js/runtime-main.a963a2af.js",
+    "runtime-main.js.map": "/js_dom_slide/static/js/runtime-main.a963a2af.js.map",
+    "static/css/2.dd1fe7f4.chunk.css": "/js_dom_slide/static/css/2.dd1fe7f4.chunk.css",
+    "static/js/2.f0976b6e.chunk.js": "/js_dom_slide/static/js/2.f0976b6e.chunk.js",
+    "static/js/2.f0976b6e.chunk.js.map": "/js_dom_slide/static/js/2.f0976b6e.chunk.js.map",
+    "index.html": "/js_dom_slide/index.html",
+    "precache-manifest.7dec0be6da893cb143c788d02b1e9acc.js": "/js_dom_slide/precache-manifest.7dec0be6da893cb143c788d02b1e9acc.js",
+    "service-worker.js": "/js_dom_slide/service-worker.js",
+    "static/css/2.dd1fe7f4.chunk.css.map": "/js_dom_slide/static/css/2.dd1fe7f4.chunk.css.map",
+    "static/css/main.2fe0686d.chunk.css.map": "/js_dom_slide/static/css/main.2fe0686d.chunk.css.map",
+    "static/js/2.f0976b6e.chunk.js.LICENSE.txt": "/js_dom_slide/static/js/2.f0976b6e.chunk.js.LICENSE.txt",
+    "static/media/fall_1.jpg": "/js_dom_slide/static/media/fall_1.84647fef.jpg",
+    "static/media/fall_2.jpg": "/js_dom_slide/static/media/fall_2.ed343198.jpg",
+    "static/media/fall_3.jpg": "/js_dom_slide/static/media/fall_3.3a907ae4.jpg",
+    "static/media/spring_1.jpg": "/js_dom_slide/static/media/spring_1.9afd832b.jpg",
+    "static/media/spring_2.jpg": "/js_dom_slide/static/media/spring_2.359830f4.jpg",
+    "static/media/spring_3.jpg": "/js_dom_slide/static/media/spring_3.7d4f60bf.jpg",
+    "static/media/summer_1.jpg": "/js_dom_slide/static/media/summer_1.f72f432d.jpg",
+    "static/media/summer_2.jpg": "/js_dom_slide/static/media/summer_2.55da6b52.jpg",
+    "static/media/summer_3.jpg": "/js_dom_slide/static/media/summer_3.3191189b.jpg",
+    "static/media/winter_1.jpeg": "/js_dom_slide/static/media/winter_1.d57b6e07.jpeg",
+    "static/media/winter_2.jpg": "/js_dom_slide/static/media/winter_2.60fb7c8d.jpg",
+    "static/media/winter_3.jpg": "/js_dom_slide/static/media/winter_3.a6dd05da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a963a2af.js",
+    "static/css/2.dd1fe7f4.chunk.css",
+    "static/js/2.f0976b6e.chunk.js",
+    "static/css/main.2fe0686d.chunk.css",
+    "static/js/main.a273cf55.chunk.js"
+  ]
+}
